@@ -43,7 +43,7 @@
 
 
 	<!-- start header Jumbotron -->
-	<header class ="jumbotron back-image" style="background-image:url(images/farm.jpg);">
+	<header class ="jumbotron back-image" style="background-image:url(images/banner1.jpg);">
 		<div class="myclass mainHeading">
 			<h1 class="text-uppercase text-light  font-weight-bold">Welcome to CMS </h1>
 			<p class=" text-light ">Farmer's helping hand</p>

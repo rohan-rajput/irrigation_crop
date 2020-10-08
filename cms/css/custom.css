@@ -1,0 +1,60 @@
+/* Change brand name font */
+.navbar-brand{
+	font-family: "Montserrat", sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+/*change menu color */
+.navbar #myMenu .custom-nav .nav-item a{
+	color: #000;
+}
+
+
+.navbar #myMenu .custom-nav .nav-item a:hover{
+	color: #555555;
+}
+
+
+
+/* make header image responsive */
+
+.back-image {
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	min-height: 90vh;
+	border-radius: 0px;
+	margin-top: 74px;
+}
+
+/*header image subtitle */
+.font-italic{
+ font-size: 24px;
+
+}
+
+
+.fi-color {
+	color:#00ff00;
+}
+
+.fi-color:hover {
+	color: #ffffff;
+
+}
+
+
+
+/* Margin for welcome to cms*/
+.mainHeading{
+	margin-top: 90px;
+}
+
+/* */
+@media only screen and (max-width: 60px){
+.myclass {
+	margin-top: 350px;
+	text-align: below;
+}
+}
